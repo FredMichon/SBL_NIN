@@ -32,4 +32,5 @@
 ## EcOG
 - [Action Prediction EcOG scripts](https://github.com/Csaramon/ActionPredictionECoG)
 
-
+## Neuropixels
+- [Hippocampal Shock Observation Responses scripts](https://github.com/FredMichon/HippocampalShockObservationResponses)
